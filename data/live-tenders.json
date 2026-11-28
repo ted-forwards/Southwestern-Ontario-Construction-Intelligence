@@ -1,0 +1,600 @@
+{
+  "updated": "2026-11-28T00:01:26+00:00",
+  "source": "CanadaBuys",
+  "records": [
+    {
+      "title": "ACAN - Providing development, maintenance, and support services for the Non-Destructive Testing (NDT) solution",
+      "id": "cb-14-3975244",
+      "buyer": "Department of Natural Resources (NRCan)",
+      "region": "*Canada\n*Ontario (except NCR)\n*National Capital Region (NCR)\n*Ottawa",
+      "closes": "2025-08-26T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "W3330-26-175_MegaPac1 Server",
+      "id": "SSC-25-00031202:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2025-09-03T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Storage & Rack  Components for DND",
+      "id": "SSC-25-00031107:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2025-09-04T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "W6890-260085 Snow and Ice Control Services CFB North Bay",
+      "id": "WS5357559463-Doc5367064519",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2025-10-10T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/23460777?extsite=MjM0NjA3NzdfQU4wMTQ4NDA1MDk5Mg==",
+      "construction": false
+    },
+    {
+      "title": "Agriculture Fertilizer",
+      "id": "PW-_TOR-024-8091",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-03-31T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "SA-Printing Services",
+      "id": "PW-__CW-001-79905",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Nunavut Territory\n*Quebec (except NCR)\n*New Brunswick\n*Germany\n*Newfoundland and Labrador\n*Northwest Territories\n*Nova Scotia\n*Ontario (except NCR)\n*Manitoba\n*British Columbia\n*Prince Edward Island\n*Alberta\n*Saskatchewan\n*National Capital Region (NCR)\n*Yukon",
+      "closes": "2026-03-31T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Supply Arrangement (T3PEA)",
+      "id": "PW-_NSS-006-28191",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*National Capital Region (NCR)\n*Ontario (except NCR)\n*Prince Edward Island\n*Saskatchewan\n*Quebec (except NCR)\n*Yukon\n*Manitoba\n*Northwest Territories\n*Nova Scotia\n*Nunavut Territory\n*Newfoundland and Labrador\n*New Brunswick\n*British Columbia\n*Alberta",
+      "closes": "2026-05-19T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Media Monitoring Services",
+      "id": "PW-__CY-037-80201",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Alberta\n*Nunavut Territory\n*Nova Scotia\n*Manitoba\n*British Columbia\n*Quebec (except NCR)\n*Ontario (except NCR)\n*Prince Edward Island\n*Saskatchewan\n*National Capital Region (NCR)\n*Yukon\n*Newfoundland and Labrador\n*New Brunswick\n*Germany\n*Northwest Territories",
+      "closes": "2026-06-30T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Hazardous Waste Disposal Services",
+      "id": "PW-_NCS-030-11940",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Northwest Territories\n*Nova Scotia\n*New Brunswick\n*Newfoundland and Labrador\n*Nunavut Territory\n*Yukon\n*British Columbia\n*Quebec (except NCR)\n*Manitoba\n*Saskatchewan\n*Ontario (except NCR)\n*Prince Edward Island\n*National Capital Region (NCR)\n*Alberta",
+      "closes": "2026-09-14T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Uninterruptible Power Supply (UPS) Units",
+      "id": "cb-226-74548204",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Canada\n*Ontario (except NCR)",
+      "closes": "2026-11-27T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Furniture for Workspaces",
+      "id": "cb-472-24448645",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Kingston\n*Canada\n*Ontario (except NCR)",
+      "closes": "2026-11-27T17:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "0620-2027-RFP3 Rolling pedestals",
+      "id": "cb-250-75473113",
+      "buyer": "Federal Economic Development Agency for Southern Ontario (FedDev Ontario)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-11-30T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Primary Care Physician services – Beaver Creek Institution, Medium Security and Beaver Creek Institution, Minimum Security",
+      "id": "cb-40-33815887",
+      "buyer": "Correctional Service of Canada (CSC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-11-30T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "RFP - Property Management Services – Regional (RP4 Phase 2)",
+      "id": "WS5832451279-Doc5832464974",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Quebec (except NCR)\n*Yukon\n*Saskatchewan\n*Alberta\n*New Brunswick\n*Ontario (except NCR)\n*Newfoundland and Labrador\n*British Columbia\n*Prince Edward Island\n*Manitoba\n*Northwest Territories\n*Nova Scotia\n*Nunavut Territory",
+      "closes": "2026-11-30T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110021998?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "W6854-270416 EV Enclosure",
+      "id": "WS5918076206-Doc5969112961",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Canada\n*Ontario (except NCR)",
+      "closes": "2026-11-30T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110030593?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "EQ754-270849 New Furniture for Workspaces",
+      "id": "WS5951816838-Doc5965794470",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-11-30T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110030353?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "2BH6216607/A NVIDIA DGX SPARK AI MINI PC GB10 AI workstation or equivalent for ISED",
+      "id": "SSC-26-00035486:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)\n*National Capital Region (NCR)",
+      "closes": "2026-12-01T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "RFSO - Civil/Marine Engineering Consulting Services - Ontario, Prairie & Northwest Territories Regions",
+      "id": "cb-128-37718968",
+      "buyer": "Department of Fisheries and Oceans (DFO)",
+      "region": "*Ontario (except NCR)\n*Northwest Territories\n*Canada\n*National Capital Region (NCR)",
+      "closes": "2026-12-01T14:00:00",
+      "url": "",
+      "construction": true
+    },
+    {
+      "title": "High-Voltage Protective Flooring System",
+      "id": "cb-833-55509745",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Ontario (except NCR)\n*Canada",
+      "closes": "2026-12-02T12:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "16” & 24” Touch Screen Monitors",
+      "id": "SSC-26-00035479:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-03T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "EQ754-270295 - Nassau Mills Dam at Lock 22 Replacement",
+      "id": "WS5881296127-Doc5881315907",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-03T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110026282?anId=ANONYMOUS",
+      "construction": true
+    },
+    {
+      "title": "RFQ – Acumentrics 1U UPS hardware for DND",
+      "id": "SSC-26-00035474:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-04T14:00:00",
+      "url": "",
+      "construction": true
+    },
+    {
+      "title": "Phone Booth - Furniture",
+      "id": "cb-55-30050482",
+      "buyer": "Statistics Canada (StatCan)",
+      "region": "*Quebec (except NCR)\n*Ontario (except NCR)",
+      "closes": "2026-12-04T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "F2599-260338 – CCG Cove Isle Drydock 2027",
+      "id": "WS5992093770-Doc5992173829",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Canada\n*Quebec (except NCR)\n*Ontario (except NCR)",
+      "closes": "2026-12-04T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110031594?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "F5561-260373 CCGS Capt. Jacques Cartier Dry Docking Refit",
+      "id": "WS5920005782-Doc5920007026",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Nova Scotia\n*Prince Edward Island\n*Ontario (except NCR)\n*Quebec (except NCR)\n*Newfoundland and Labrador",
+      "closes": "2026-12-04T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110027863?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "Parking Lot and Paved Areas Recapitalization",
+      "id": "cb-87-65723200",
+      "buyer": "Department of the Environment (ECCC )",
+      "region": "*Canada\n*Ontario (except NCR)",
+      "closes": "2026-12-04T15:00:00",
+      "url": "",
+      "construction": true
+    },
+    {
+      "title": "Develop Wayfinding Strategy for Mississippi Lake National Wildlife Area (MLNWA), St Clair National Wildlife Area (SCNWA) and Big Creek National Wildlife Area (BCNWA)",
+      "id": "cb-618-46061100",
+      "buyer": "Department of the Environment (ECCC )",
+      "region": "*Ontario (except NCR)\n*Canada",
+      "closes": "2026-12-04T15:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Industrial Textile Shredder",
+      "id": "cb-862-24131246",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Ontario (except NCR)\n*Petawawa\n*Canada",
+      "closes": "2026-12-04T16:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "UP Xtreme ARL.Intel Core Ultra 7 for DND",
+      "id": "SSC-26-00035613:T",
+      "buyer": "Shared Services Canada",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-07T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Water Testing Laboratory Program, Rouge National Urban Park",
+      "id": "cb-550-8896453",
+      "buyer": "Parks Canada Agency (PC)",
+      "region": "*Ontario (except NCR)\n*Canada",
+      "closes": "2026-12-08T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Navy Hall National Historic Site Washroom Renovation Project",
+      "id": "cb-66-94748913",
+      "buyer": "Parks Canada Agency (PC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-08T14:00:00",
+      "url": "",
+      "construction": true
+    },
+    {
+      "title": "Notice of Proposed Procurement  Articulating Boom Lift",
+      "id": "cb-751-26379903",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Canada\n*Ontario (except NCR)",
+      "closes": "2026-12-10T10:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Household Hazardous Waste (E-Waste) Collection and Disposal",
+      "id": "cb-408-77992883",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)\n*National Capital Region (NCR)",
+      "closes": "2026-12-10T14:30:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "EQ754-270562 Office Fit-up - Phase II",
+      "id": "WS5855064749-Doc6000377146",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-11T14:00:00",
+      "url": "",
+      "construction": true
+    },
+    {
+      "title": "Access Control and Intrusion Detection Services",
+      "id": "cb-435-94227930",
+      "buyer": "Canada Revenue Agency (CRA)",
+      "region": "*British Columbia\n*Canada\n*Ontario (except NCR)\n*Saskatchewan\n*Newfoundland and Labrador\n*Nova Scotia\n*Prince Edward Island\n*National Capital Region (NCR)\n*New Brunswick\n*Alberta\n*Manitoba\n*Quebec (except NCR)",
+      "closes": "2026-12-14T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "23240-270312 Hot Extractive Gas Analyzer System RFP",
+      "id": "WS5828794590-Doc5986355866",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-14T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110031454?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "High Density Mobile Shelving",
+      "id": "PW-__HN-446-81465",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Northwest Territories\n*Yukon\n*Manitoba\n*Alberta\n*Ontario (except NCR)\n*New Brunswick\n*British Columbia\n*Newfoundland and Labrador\n*National Capital Region (NCR)\n*Quebec (except NCR)\n*Saskatchewan\n*Prince Edward Island\n*Nova Scotia",
+      "closes": "2026-12-15T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Refresh #1 – RFSO EN578-221793-B_Digitization Services",
+      "id": "WS3991178614-Doc5935815036",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Yukon\n*Manitoba\n*Alberta\n*Nova Scotia\n*National Capital Region (NCR)\n*New Brunswick\n*Northwest Territories\n*Quebec (except NCR)\n*Prince Edward Island\n*British Columbia\n*Ontario (except NCR)\n*Saskatchewan\n*Newfoundland and Labrador",
+      "closes": "2026-12-15T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110029390?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "Mobility Medical Devices & Supplies",
+      "id": "WS5816036092-Doc6005382632",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-16T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032333?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "W0125-27WR13 Underground Tank Waste Removal",
+      "id": "WS6005777796-Doc6007526244",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-16T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032458?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "CNC Lathe",
+      "id": "cb-175-54732496",
+      "buyer": "Department of National Defence (DND)",
+      "region": "*Ontario (except NCR)\n*National Capital Region (NCR)",
+      "closes": "2026-12-17T12:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "EQ754-270900 - Westlake Hall Sanitary and Stormwater Drains Replacement - Kingston Ontario",
+      "id": "WS6003445778-Doc6003484500",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-17T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032579?anId=ANONYMOUS",
+      "construction": true
+    },
+    {
+      "title": "21C11-265297B Flatbed Trailer",
+      "id": "WS5918392930-Doc6009399805",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-17T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032581?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "Purchase of 15 Low Temperature Growth Chambers",
+      "id": "cb-240-83728150",
+      "buyer": "Department of Agriculture and Agri-Food (AAFC)",
+      "region": "*Ontario (except NCR)\n*Quebec (except NCR)",
+      "closes": "2026-12-19T17:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Commercial Bus 44 Pax",
+      "id": "WS5996973101-Doc5997006965",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2026-12-29T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032189?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "RFSA - Exhibits: Project management, content development, design, writing, fabrication and installation services - turnkey and à la carte",
+      "id": "cb-898-26415771",
+      "buyer": "Parks Canada Agency (PC)",
+      "region": "*Ontario (except NCR)\n*Canada\n*Newfoundland and Labrador\n*Saskatchewan\n*Yukon\n*British Columbia\n*Quebec (except NCR)\n*Alberta\n*Prince Edward Island\n*Northwest Territories\n*New Brunswick\n*Manitoba\n*National Capital Region (NCR)\n*Nova Scotia",
+      "closes": "2026-12-31T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "EQ754-251541_A - RFSO - ELECTRICAL AND MECHANICAL ENGINEERING SERVICES - ONTARIO REGION",
+      "id": "WS5551293086-Doc5915300074",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2027-01-12T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110027558?anId=ANONYMOUS",
+      "construction": true
+    },
+    {
+      "title": "EQ754-270159 - CSC Millhaven Door Control System Upgrades Phase 2",
+      "id": "WS5776353370-Doc5999043074",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Canada\n*Ontario (except NCR)",
+      "closes": "2027-01-12T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110032006?anId=ANONYMOUS",
+      "construction": true
+    },
+    {
+      "title": "W6399-22CA50C Miscellaneous Communication Equipment",
+      "id": "WS4102449949-Doc4106230724",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2027-03-31T14:09:49",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/16918963?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "Pesticide application services for Joyceville and Collins Bay Institution (21C40-239061B)",
+      "id": "WS4092314045-Doc4209875524",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2027-08-31T10:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/17438782?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "TacC2IS Mod RFI",
+      "id": "WS4783105641-Doc4783109918",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)\n*Quebec (except NCR)",
+      "closes": "2027-09-30T11:15:00",
+      "url": "https://discovery.ariba.com/rfx/20943981",
+      "construction": false
+    },
+    {
+      "title": "Tactical Communications Modernization Project (TCM) RFI",
+      "id": "WS4633925577-Doc4633946695",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)\n*Quebec (except NCR)",
+      "closes": "2027-09-30T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/20066928?extsite=MjAwNjY5MjhfQU4wMTQ4NDA1MDk5Mg==",
+      "construction": false
+    },
+    {
+      "title": "Uncrewed Ground Vehicles-RFSA-B",
+      "id": "WS4395007927-Doc5528572591",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2027-09-30T14:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110002993?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "JDHQSRM",
+      "id": "WS4790718200-Doc4801625493",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)\n*Quebec (except NCR)",
+      "closes": "2027-09-30T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/21076547",
+      "construction": false
+    },
+    {
+      "title": "W6399-23DB10C Explosive Ordinance Disposal, Improvised Explosive Devices, Training Services and Tools",
+      "id": "WS4059013483-Doc4061493002",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2028-03-31T10:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/16625649?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "E6TOR-23RM04 Light Construction Equipment Rental",
+      "id": "WS4052927717-Doc4053526199",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2028-06-29T20:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/16583696?anId=ANONYMOUS",
+      "construction": true
+    },
+    {
+      "title": "Medium/Large Vessel Recycling Services",
+      "id": "PW-_MER-005-29423",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*National Capital Region (NCR)\n*Saskatchewan\n*Manitoba\n*Northwest Territories\n*New Brunswick\n*Alberta\n*Prince Edward Island\n*Nunavut Territory\n*Nova Scotia\n*Ontario (except NCR)\n*Newfoundland and Labrador\n*British Columbia\n*Yukon\n*Quebec (except NCR)",
+      "closes": "2029-03-30T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "5P315-240331 Douglas Fir Timber",
+      "id": "WS4444227782-Doc4451859964",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2029-03-31T10:00:00",
+      "url": "https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/18848603?anId=ANONYMOUS",
+      "construction": false
+    },
+    {
+      "title": "Furniture for Work Spaces",
+      "id": "PW-__PQ-992-74154",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Ontario (except NCR)\n*British Columbia\n*Manitoba\n*Saskatchewan\n*Yukon\n*Nunavut Territory\n*National Capital Region (NCR)\n*Northwest Territories\n*Newfoundland and Labrador\n*Prince Edward Island\n*Alberta\n*Nova Scotia\n*Quebec (except NCR)\n*New Brunswick",
+      "closes": "2029-04-23T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "E6TOR-23RM10 Bus Charter and Bus Rental Services-Ontario Region",
+      "id": "WS4619369595-Doc4628558184",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2029-06-30T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/19970266?extsite=MTk5NzAyNjZfQU4wMTQ4NDA1MDk5Mg==",
+      "construction": false
+    },
+    {
+      "title": "E6TOR-23RM03 Heavy Construction Equipment Rental",
+      "id": "WS4625503118-Doc4625518879",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2029-06-30T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/19982550?extsite=MTk5ODI1NTBfQU4wMTQ4NDA1MDk5Mg==",
+      "construction": true
+    },
+    {
+      "title": "E6TOR-25RM01 Compressed Gas and Welding Supplies",
+      "id": "WS5386713014-Doc5386719620",
+      "buyer": "Department of Public Works and Government Services (PSPC)",
+      "region": "*Ontario (except NCR)",
+      "closes": "2029-10-31T14:00:00",
+      "url": "https://discovery.ariba.com/rfx/23492460?extsite=MjM0OTI0NjBfQU4wMTQ4NDA1MDk5Mg==",
+      "construction": false
+    },
+    {
+      "title": "National Moving Services - Request for Supply Arrangement (RFSA) - Wave B",
+      "id": "cb-1-54052272",
+      "buyer": "Employment and Social Development Canada",
+      "region": "*Manitoba\n*Prince Edward Island\n*Ontario (except NCR)\n*Nova Scotia\n*New Brunswick\n*Quebec (except NCR)\n*Northwest Territories\n*Yukon\n*National Capital Region (NCR)\n*Saskatchewan\n*British Columbia\n*Newfoundland and Labrador\n*Alberta",
+      "closes": "2033-10-11T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "EREP: Industry Day - Information and Engagement Session",
+      "id": "PW-_ERD-005-26943",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Yukon\n*Alberta\n*New Brunswick\n*National Capital Region (NCR)\n*Saskatchewan\n*British Columbia\n*Northwest Territories\n*Prince Edward Island\n*Ontario (except NCR)\n*Newfoundland and Labrador\n*Nova Scotia\n*Quebec (except NCR)\n*Nunavut Territory\n*Foreign\n*Manitoba",
+      "closes": "2040-01-02T14:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Buses, Electric",
+      "id": "PW-__HP-539-79947",
+      "buyer": "Public Works and Government Services Canada",
+      "region": "*Quebec (except NCR)\n*Nunavut Territory\n*Manitoba\n*Saskatchewan\n*Prince Edward Island\n*Alberta\n*New Brunswick\n*Yukon\n*British Columbia\n*Nova Scotia\n*Ontario (except NCR)\n*Newfoundland and Labrador\n*Northwest Territories",
+      "closes": "2046-04-16T15:00:00",
+      "url": "",
+      "construction": false
+    },
+    {
+      "title": "Terrestrial Archaeology Services – Supply Arrangement",
+      "id": "cb-6322-42499867",
+      "buyer": "Parks Canada",
+      "region": "*Northwest Territories\n*National Capital Region (NCR)\n*Nova Scotia\n*Manitoba\n*Newfoundland and Labrador\n*Alberta\n*Canada\n*New Brunswick\n*Ontario (except NCR)\n*Saskatchewan\n*Yukon\n*British Columbia\n*Indigenous Lands\n*Prince Edward Island\n*Quebec (except NCR)",
+      "closes": "2100-12-13T14:00:00",
+      "url": "",
+      "construction": false
+    }
+  ]
+}
